@@ -4042,7 +4042,7 @@ fieldset:disabled .btn {
 
 .btn-check:focus+.btn-outline-secondary,
 .btn-outline-secondary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(, 128, 154, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(0, 128, 154, 0.5);
 }
 
 .btn-check:checked+.btn-outline-secondary,
@@ -4060,7 +4060,7 @@ fieldset:disabled .btn {
 .btn-outline-secondary:active:focus,
 .btn-outline-secondary.active:focus,
 .btn-outline-secondary.dropdown-toggle.show:focus {
-  box-shadow: 0 0 0 0.2rem rgba(, 128, 154, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(0, 128, 154, 0.5);
 }
 
 .btn-outline-secondary:disabled,
